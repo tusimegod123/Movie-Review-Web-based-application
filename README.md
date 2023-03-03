@@ -10,7 +10,7 @@ MongoDB is used as the primary database for the application, providing a flexibl
 
 React is used as the frontend framework for the application, providing a dynamic and responsive user interface. React's component-based architecture makes it easy to build reusable UI elements, such as movie search forms, movie review cards, and user profile pages.
 
-Together, these technologies form a powerful and modern software stack that enables the movie review application to provide a seamless and engaging user experience. With Java Spring Boot providing a robust backend, MongoDB providing scalable data storage, and React providing a dynamic frontend, the movie review application is well-equipped to meet the needs of movie enthusiasts everywhere. need to manage their employees effectively.
+Together, these technologies form a powerful and modern software stack that enables the movie review application to provide a seamless and engaging user experience. With Java Spring Boot providing a robust backend, MongoDB providing scalable data storage, and React providing a dynamic frontend, the movie review application is well-equipped to meet the needs of movie enthusiasts everywhere.
 
 **Technologies and Tools**
 Languages:   Java   |   [Spring Boot](https://spring.io/)    | [MongoDB](https://www.mongodb.com/) |
