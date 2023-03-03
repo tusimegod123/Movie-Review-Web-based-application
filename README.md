@@ -16,8 +16,12 @@ Together, these technologies form a powerful and modern software stack that enab
 Languages:   Java   |   [Spring Boot](https://spring.io/)    | [MongoDB](https://www.mongodb.com/) |
 Frontend:   JavaScript | [ReactJs](https://reactjs.org/)  |  [Bootstrap 5.3](https://getbootstrap.com/) |  [Material UI](https://mui.com/)
 
-![This is an image](https://yourimageshare.com/ib/qQDt5O927Q)
+![Home page image](./assets/image1.png)
 
-![Alt text](./assets/image_name.png)
+![Alt text](./assets/image2.png)
+
+![Alt text](./assets/image3.png)
+
+![Alt text](./assets/image5.png)
 
 
