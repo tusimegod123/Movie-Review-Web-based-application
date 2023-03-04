@@ -14,14 +14,14 @@ Together, these technologies form a powerful and modern software stack that enab
 
 **Technologies and Tools**
 Languages:   Java   |   [Spring Boot](https://spring.io/)    | [MongoDB](https://www.mongodb.com/) |
-Frontend:   JavaScript | [ReactJs](https://reactjs.org/)  |  [Bootstrap 5.3](https://getbootstrap.com/) |  [Material UI](https://mui.com/)
+Frontend:   JavaScript | [ReactJs](https://reactjs.org/)  |  [Bootstrap 5.3](https://getbootstrap.com/) |  [Material UI](https://mui.com/) | [React-player](https://www.npmjs.com/package/react-player) |
 
-![Home page image](./assets/image1.png)
+![Home page image](https://res.cloudinary.com/diued7ugb/image/upload/v1677894357/image1_e92qk5.png)
 
-![Alt text](./assets/image2.png)
+![Alt text](https://res.cloudinary.com/diued7ugb/image/upload/v1677894361/image4_aszq0w.png)
 
-![Alt text](./assets/image3.png)
+![Alt text](https://res.cloudinary.com/diued7ugb/image/upload/v1677894357/image2_jfwbbm.png)
 
-![Alt text](./assets/image5.png)
+![Alt text](https://res.cloudinary.com/diued7ugb/image/upload/v1677894357/image5_bs2udp.png)
 
 
